@@ -1,0 +1,3 @@
+[submodule "CommsBot"]
+	path = CommsBot
+	url = https://github.com/adamh-brum/CommsBot.git
